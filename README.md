@@ -1,5 +1,5 @@
-Virtual Event JBoss BRMS & BPM Suite 6.1 Launch on April 13th
--------------------------------------------------------------
+Virtual Event JBoss BRMS & BPM Suite 6.1 Launch
+-----------------------------------------------
 ![Cover Slide](https://raw.githubusercontent.com/eschabell/presentation-bpms-virtual-event/master/cover.png)
 
 
